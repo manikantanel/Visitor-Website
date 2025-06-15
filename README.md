@@ -1,10 +1,5 @@
 # Visitor-Website
 
-![image](https://github.com/user-attachments/assets/71309c18-6081-491c-acfb-23bbe2270b19) 
-
-![image](https://github.com/user-attachments/assets/efcf3968-2dd5-42f4-98f3-b818fd46080d)
-
-![image](https://github.com/user-attachments/assets/c8ce9451-9766-4dea-a412-5c588a035187)
 
 # 🧳  Travel Website 
 
@@ -97,7 +92,12 @@ This is a full-featured, accessible, and responsive travel website built with PH
 ---
 
 ## 📸 Screenshots
-> _You can optionally embed screenshots here for visual reference._
+![image](https://github.com/user-attachments/assets/71309c18-6081-491c-acfb-23bbe2270b19) 
+
+![image](https://github.com/user-attachments/assets/efcf3968-2dd5-42f4-98f3-b818fd46080d)
+
+![image](https://github.com/user-attachments/assets/c8ce9451-9766-4dea-a412-5c588a035187)
+
 
 ---
 
